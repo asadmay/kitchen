@@ -5,14 +5,6 @@
 	<lastmod>2022-06-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
-	<image:image>
-	<image:loc>https://kitchen.asadpro.ru/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://kitchen.asadpro.ru/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
 </url>
 <url>
 	<loc>https://kitchen.asadpro.ru/45-fantastic-kitchen-floor-ideas-and-designs.html</loc>
@@ -24,11 +16,183 @@
 	<image:title>45 Fantastic Kitchen Floor Ideas and Designs.jpeg</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://kitchen.asadpro.ru/img/placeholder-image.png</image:loc>
+	<image:loc>https://kitchen.asadpro.ru/img/01%2Bbrick%2Bkitchen%2Bfloor.jpg</image:loc>
 	<image:title>01+brick+kitchen+floor</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://kitchen.asadpro.ru/img/placeholder-image.png</image:loc>
+	<image:loc>https://kitchen.asadpro.ru/img/02%2Bgrey%2Blimestone%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/03%2Bwood%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/04%2Bpatterned%2Btile%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/05%2Bblue%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/06%2Bmodern%2Bkitchen%2Bisland.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/07%2Bfarmhouse%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/09%2Bgrey%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/08%2Bwhite%2Bscallop%2Btile%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/10%2Bheagonal%2Bslate%2Btiles.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/11%2Bfarmhouse%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/12%2Bluxurious%2Bmarbel%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/13%2Bwood%2Btransition%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/14%2Bwood%2Band%2Btile%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/15%2Belegant%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/16%2Bmodern%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/17%2Belegant%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/18%2Bpatterned%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/19%2Bluxurious%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/20%2Bslate%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/21%2Bmodern%2Bconcrete%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/22%2Btranditional%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/23%2Bblue%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/24%2Bsmall%2Bmodern%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/25%2Bwood%2Bplank%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/26%2Bherringbone%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/27%2Bfarmhouse%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/28%2Belegant%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/29%2Bterracotta%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/30%2Bsmall%2Bmodern%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/31%2Bmodern%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/32%2Bhexgaon%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/33%2Bwhite%2Bsubway%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/34%2Bterrazzo%2Btile%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/35%2Bred%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/36%2Blimestone%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/37%2Bcolourful%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/38%2Bblack%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/39%2Bpastel%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/40%2Bmodern%2Bminimalist%2Bkitchen.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/41%2Bterracotta%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/42%2Boak%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/43%2Bherringbone%2Bkitchen%2Bfloor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/44%2Bblack%2Bhexagon%2Btiles.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitchen.asadpro.ru/img/45%2Bmarble%2Bkitchen%2Bfloor.jpg</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
