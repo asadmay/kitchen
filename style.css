@@ -1,6 +1,5 @@
 /*-----------------------------------------------------------------------------------
 	kitchen
-	About: A shiny new Blocs website.
 	Author: Александр Майков
 	Version: 1.0
 	Built with Blocs
@@ -135,6 +134,10 @@ button{
 
 
 
+/*  Image Protection */
+.img-protected{
+	-webkit-touch-callout: none;
+}
 
 
 
@@ -194,12 +197,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	padding-bottom:20px;
 }
 .cont{
-	margin-bottom:30px;
+	margin-bottom:40px;
 }
 
 /* = Colour
 -------------------------------------------------------------- */
 
+
+/* Bloc image backgrounds */
 
 
 
